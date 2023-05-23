@@ -1,8 +1,8 @@
 # microservice
 
-#Description:
+#Description: PRODUCER APPLICATION
 
-I built an application with express js and rabbitmq, one of them is the producer that publishes data and the second one the consumer thae receives the data.
+I built an application with express js and rabbitmq, one of them is the producer that publishes data and the second one the consumer that receives the data.
 
 #Application steps:
 
