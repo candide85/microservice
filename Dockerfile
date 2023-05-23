@@ -1,8 +1,8 @@
-FROM node:14
+FROM node:19.5.0-alpine
 
 WORKDIR /micro-service-producer1
 
-RUN npm install
+RUN npm install express
 
 COPY . .
 
